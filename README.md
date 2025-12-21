@@ -1,5 +1,5 @@
 # 💫 About Me:
-💪 Growth: I consistently improving myself step by step and refine my skills and knowledge<br><br>🧳Journey: Building solid frontend skills while preparing to dive into DevOps workflows, API design, and AI applications.<br><br>🎯Aim: DevOps & AI<br><br>🧠Traits: <br>                - 📚 Always learning<br>                - 🕛Consistent coding<br>                - 🧩Problem-solver mindset
+💪 Growth: I am consistently improving myself step by step and refine my skills and knowledge<br><br>🧳Journey: Building solid frontend skills while preparing to dive into DevOps workflows, API design, and AI applications.<br><br>🎯Aim: DevOps & AI<br><br>🧠Traits: <br>                - 📚 Always learning<br>                - 🕛Consistent coding<br>                - 🧩Problem-solver mindset
 
 
 # 💻 Tech Stack:
